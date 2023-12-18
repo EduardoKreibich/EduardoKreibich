@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade no mercado de tecnologia.
-- 🌱 Atualmente estou aprendendo Node.js | express | PostgreSQL
+- 🌱 Atualmente estou aprendendo c#
 - 💬 Aqui nesse ambiente, você vai encontrar meus principais projetos. 
 - 📫 Como chegar até mim: kreibicheduardo@gmail.com
 
