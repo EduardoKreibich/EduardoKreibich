@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade no mercado de tecnologia.
-- 🌱 Atualmente estou aprendendo c#
+- 🌱 Atualmente estou aprendendo PHP
 - 💬 Aqui nesse ambiente, você vai encontrar meus principais projetos. 
 - 📫 Como chegar até mim: kreibicheduardo@gmail.com
 
