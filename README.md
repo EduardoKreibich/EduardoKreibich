@@ -11,7 +11,7 @@
 - Metodologias Ágeis: Scrum 🏃‍♂️💨
 - APIs: Desenvolvimento e Integração 🔌
 - Adoro transformar ideias em soluções práticas e eficientes, com um foco constante em entregar valor real. Sou colaborativo, focado e sempre em busca de aprender mais para crescer tanto profissional quanto pessoalmente 🌱.
--
+
 - No meu tempo livre, continuo explorando novas tecnologias e aprimorando minhas habilidades para estar sempre atualizado no mundo da programação.
 
 - 🔗 GitHub: EduardoKreibich
