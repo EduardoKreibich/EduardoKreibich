@@ -2,20 +2,20 @@
 
 ### Olá! Eu sou o Eduardo Kreibich 👋
 
-Sou apaixonado por tecnologia e sempre em busca de novas formas de inovar e resolver problemas complexos. Atualmente, sou formado em Desenvolvimento Fullstack pela Kenzie Academy 🎓 e estou cursando Análise e Desenvolvimento de Sistemas.
+- Sou apaixonado por tecnologia e sempre em busca de novas formas de inovar e resolver problemas complexos. Atualmente, sou formado em Desenvolvimento Fullstack pela Kenzie Academy 🎓 e estou cursando Análise e Desenvolvimento de Sistemas.
 
-Tecnologias que uso:
-Frontend: HTML5, CSS, JavaScript, React.js ⚛️
-Backend: Node.js, Express.js, Java, Python, PHP ⚙️
-Banco de Dados: SQL (MySQL, PostgreSQL) 🗃️
-Metodologias Ágeis: Scrum 🏃‍♂️💨
-APIs: Desenvolvimento e Integração 🔌
-Adoro transformar ideias em soluções práticas e eficientes, com um foco constante em entregar valor real. Sou colaborativo, focado e sempre em busca de aprender mais para crescer tanto profissional quanto pessoalmente 🌱.
+- Tecnologias que uso:
+- Frontend: HTML5, CSS, JavaScript, React.js ⚛️
+- Backend: Node.js, Express.js, Java, Python, PHP ⚙️
+- Banco de Dados: SQL (MySQL, PostgreSQL) 🗃️
+- Metodologias Ágeis: Scrum 🏃‍♂️💨
+- APIs: Desenvolvimento e Integração 🔌
+- Adoro transformar ideias em soluções práticas e eficientes, com um foco constante em entregar valor real. Sou colaborativo, focado e sempre em busca de aprender mais para crescer tanto profissional quanto pessoalmente 🌱.
+-
+- No meu tempo livre, continuo explorando novas tecnologias e aprimorando minhas habilidades para estar sempre atualizado no mundo da programação.
 
-No meu tempo livre, continuo explorando novas tecnologias e aprimorando minhas habilidades para estar sempre atualizado no mundo da programação.
-
-🔗 GitHub: EduardoKreibich
-📧 Contato: kreibicheduardo@gmail.com
+- 🔗 GitHub: EduardoKreibich
+- 📧 Contato: kreibicheduardo@gmail.com
 
 
 Aqui estão todas as tecnologias que aprendi até o momento:
