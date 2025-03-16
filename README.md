@@ -17,7 +17,9 @@ Com foco em resultados, meu propósito é fazer a diferença e entregar excelên
 Eduardo Kreibich
 
 Fone: (51) 99704-5657
+
 E-mail: kreibicheduardo@gmail.com
+
 Portfólio: https://portifolio-eduardo-eight.vercel.app/
 
 
