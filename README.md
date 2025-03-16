@@ -1,21 +1,24 @@
-### Bem-vindo. 
+Sou profissional da área de Desenvolvimento Fullstack.
 
-### Olá! Eu sou o Eduardo Kreibich 👋
+Tenho experiência na criação de soluções tecnológicas, incluindo elaboração de APIs RESTful, automação de processos e integração entre sistemas.
 
-- Sou apaixonado por tecnologia e sempre em busca de novas formas de inovar e resolver problemas complexos. Atualmente, sou formado em Desenvolvimento Fullstack pela Kenzie Academy 🎓 e estou cursando Análise e Desenvolvimento de Sistemas.
+Possuo conhecimento em tecnologias front-end, como HTML, CSS, JavaScript, React.js e TypeScript, e back-end, como Node.js, Express.js, Java, Python e C#, aplicando boas práticas de desenvolvimento, incluindo Clean Code e Design Patterns..
 
-- Tecnologias que uso:
-- Frontend: HTML5, CSS, JavaScript, React.js ⚛️
-- Backend: Node.js, Express.js, Java, Python, PHP ⚙️
-- Banco de Dados: SQL (MySQL, PostgreSQL) 🗃️
-- Metodologias Ágeis: Scrum 🏃‍♂️💨
-- APIs: Desenvolvimento e Integração 🔌
-- Adoro transformar ideias em soluções práticas e eficientes, com um foco constante em entregar valor real. Sou colaborativo, focado e sempre em busca de aprender mais para crescer tanto profissional quanto pessoalmente 🌱.
+Também tenho experiência com bancos de dados relacionais como MySQL e PostgreSQL, com vivência em modelagem de dados e otimização de desempenho.
 
-- No meu tempo livre, continuo explorando novas tecnologias e aprimorando minhas habilidades para estar sempre atualizado no mundo da programação.
+Apresento conhecimento em metodologias ágeis, como Scrum, e ferramentas de conteinerização, como Docker.
 
-- 🔗 GitHub: EduardoKreibich
-- 📧 Contato: kreibicheduardo@gmail.com
+Sou graduando em Análise e Desenvolvimento de Sistemas. Especializado em Desenvolvimento Web Full Stack.
+
+Responsabilidade, planejamento, boa comunicação e visão sistêmica são habilidades que definem meu perfil.
+
+Com foco em resultados, meu propósito é fazer a diferença e entregar excelência em cada oportunidade!
+
+Eduardo Kreibich
+
+Fone: (51) 99704-5657
+E-mail: kreibicheduardo@gmail.com
+Portfólio: https://portifolio-eduardo-eight.vercel.app/
 
 
 Aqui estão todas as tecnologias que aprendi até o momento:
